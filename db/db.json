@@ -1,0 +1,118 @@
+{
+  "Jogadores": {
+    "atletas": [
+      {
+        "id": 1,
+        "nome": "Son Heung min"
+      },
+      {
+        "id": 2,
+        "nome": "Harry Kane"
+      },
+      {
+        "id": 3,
+        "nome": "Dejan Kulusevski"
+      },
+      {
+        "id": 4,
+        "nome": "Ivan Perisic"
+      },
+      {
+        "id": 5,
+        "nome": "Cristian Romero"
+      },
+      {
+        "id": 6,
+        "nome": "Yves Bissouma"
+      },
+      {
+        "id": 7,
+        "nome": "Lucas Moura"
+      },
+      {
+        "id": 8,
+        "nome": "Richarllison de Andrade"
+      },
+      {
+        "id": 9,
+        "nome": "Emerson Royal"
+      },
+      {
+        "id": 10,
+        "nome": "Hugo Lloris"
+      }
+    ]
+  },
+  "status": [
+    {
+      "id": 1,
+      "tipo": "Pendente"
+    },
+    {
+      "id": 2,
+      "tipo": "Em produção"
+    },
+    {
+      "id": 3,
+      "tipo": "Finalizado"
+    }
+  ],
+  "membros": [
+    {
+      "nome": "Gordolino dos Santos",
+      "email": "gordolino@gmail.com",
+      "atleta": "Harry Kane",
+      "status": "Pendente",
+      "id": 1
+    },
+    {
+      "nome": "João Ribeiro",
+      "email": "joaoribeiro@gmail.com",
+      "atleta": "Deli Ali",
+      "status": "Finalizado",
+      "id": 2
+    },
+    {
+      "nome": "João Ribeiro",
+      "email": "joaoribeiro@gmail.com",
+      "atleta": "Deli Ali",
+      "status": "Finalizado",
+      "id": 3
+    },
+    {
+      "nome": "João Ribeiro",
+      "email": "joaoribeiro@gmail.com",
+      "atleta": "Deli Ali",
+      "status": "Finalizado",
+      "id": 4
+    },
+    {
+      "nome": "João Ribeiro",
+      "email": "joaoribeiro@gmail.com",
+      "atleta": "Deli Ali",
+      "status": "Finalizado",
+      "id": 5
+    },
+    {
+      "nome": "João Ribeiro",
+      "email": "joaoribeiro@gmail.com",
+      "atleta": "Deli Ali",
+      "status": "Finalizado",
+      "id": 6
+    },
+    {
+      "nome": "João Ribeiro",
+      "email": "joaoribeiro@gmail.com",
+      "atleta": "Deli Ali",
+      "status": "Finalizado",
+      "id": 7
+    },
+    {
+      "nome": "João Ribeiro",
+      "email": "joaoribeiro@gmail.com",
+      "atleta": "Deli Ali",
+      "status": "Finalizado",
+      "id": 8
+    }
+  ]
+}
